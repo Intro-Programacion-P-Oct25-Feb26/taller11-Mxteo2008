@@ -1,0 +1,7 @@
+El programa necesita que el usuario elija una opción (1, 2 o 3) y que ingrese 
+las medidas de la figura, como sus lados, base o altura. El proceso principal 
+consiste en aplicar las fórmulas matemáticas de cada figura para calcular su 
+superficie usando los datos ingresados. Para que esto funcione, se usa un condi-
+cional que decide qué procedimiento ejecutar dependiendo del número que el usua-
+rio escribió. El resultado final que se espera es simplemente ver en pantalla el 
+valor del área calculada de forma clara.

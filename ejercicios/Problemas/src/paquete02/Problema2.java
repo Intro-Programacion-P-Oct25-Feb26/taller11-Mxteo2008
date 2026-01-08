@@ -27,7 +27,7 @@ public class Problema2 {
         String nombre;
         String z[] = new String[10];
         for (int i = 0; i < z.length; i++) {
-            System.out.printf("Ingrese el número de la vivienda %s\n", i+1);
+            System.out.printf("Ingrese el número de la vivienda %s\n", i + 1);
             nombre = entrada.nextLine();
             z[i] = nombre;
         }
@@ -60,16 +60,16 @@ public class Problema2 {
         }
         return z;
     }
-    public static void reporteFinal(String [] casa, double[] anual){
+
+    public static void reporteFinal(String[] casa, double[] anual) {
         String cadena = "";
-        for(int i = 0; i < casa.length; i++){
-            cadena = String.format("%sVivienda %s\nGasto anual: %.2f", cadena, 
+        for (int i = 0; i < casa.length; i++) {
+            cadena = String.format("%sVivienda %s\nGasto anual: %.2f\n", cadena,
                     casa[i], anual[i]);
-            
-        
+
         }
         System.out.printf(cadena);
-    
+
     }
 
 }

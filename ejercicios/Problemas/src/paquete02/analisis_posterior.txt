@@ -1,0 +1,7 @@
+Al realizar este problema, no se me resultó complicado ya que es un problema
+que ya hicimos previamente, por lo tanto, ya lo comprendía, al inicio estaba
+olvidando llamar a la libreria para poder ingresar la informacion por teclado,
+tuve que hacer que esta libreria fuera global para que funcionase en todos los
+metodos. Lo más importante de la solución considero que es el mensaje final que
+se va a presentar en pantalla. Gracias al ejercico logré comprender como se
+pueden enviar argumentos a los diferentes metodos para completar información

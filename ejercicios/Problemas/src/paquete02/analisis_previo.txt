@@ -1,0 +1,7 @@
+El programa necesitará crear 3 arreglos, los cuales serán llenados dentro de 3
+funciones y presentando los resultados en un procedimiento final, dentro de la
+primera funcion pediremos por teclado los datos de la vivienda(numero de casa)
+luego en la 2da funcion pediremos los gastos de cada mes de cada vivienda, en la
+ultima función se usará un ciclo repetitivo para sumar todos los valores y sacar
+el gasto anual. Finalmente en el procedimiento se imprimirá toda la informacion,
+el numero de casa junto al gasto anual que presentó

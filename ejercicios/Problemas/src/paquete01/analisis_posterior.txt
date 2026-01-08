@@ -1,0 +1,5 @@
+El problema fue facil de comprender, pero para poder imprimir, he puesto que se 
+imprima dentro de un ciclo, por ello me salían resultados duplicados, pero solo 
+tuve que poner el System fuera de el ciclo repetitivo para que el resultado me 
+salga de manera correcta. Lo más importante es que se ubique bien la condicion 
+para que solo se consideren los números pares.

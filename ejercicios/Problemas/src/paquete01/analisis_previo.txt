@@ -1,0 +1,7 @@
+El programa necesitará crear primeramente el arreglo, el procedimiento, dentro
+del procedimiento estará la cadena que se va a concatenar. Dentro del arreglo1
+hay varios números, los cuales serán enviados en conjunto al procedimiento,
+ahí se utilizarán 2 ciclos para analizar todos los datos del arreglo y se usará
+un condicional para determinar si estos son numeros pares o no, en caso de serlo
+se concatenarán esos datos a la cadena que luego presentará el mensaje en panta-
+lla. Y finalmente se espera que la salida sea unicamente los números pares. 

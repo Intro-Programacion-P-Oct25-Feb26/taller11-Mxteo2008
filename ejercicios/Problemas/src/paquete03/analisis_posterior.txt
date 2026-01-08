@@ -1,0 +1,4 @@
+El problema ha sido facil de comprender, no he presentado errores al crear
+el programa, considero que lo más importante era crear la condicional para lla-
+mar a los procedimientos, ya que se debe tomar en cuenta si el usuario ingresa
+un número que no está en las opciones

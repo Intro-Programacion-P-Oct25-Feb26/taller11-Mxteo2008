@@ -1,0 +1,5 @@
+Para realizar este problema se pediran datos como el nombre, y la cedula, ade-
+mas que se pedira poner el 1 o el 2 para llamar a los procedimientos correspon-
+dientes, en el primer procedimiento se pediran los datos para sacar el precio 
+de la planilla de luz y en el 2do para pdoer obtener el predio urbano, estos 
+procedimientos tendrán como parametros los argumentos de la cédula y del nombre

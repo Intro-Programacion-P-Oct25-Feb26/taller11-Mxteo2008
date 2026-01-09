@@ -32,24 +32,22 @@ public class Problema4 {
             nombre = entrada.nextLine();
             System.out.println("Ingrese su Cédula");
             cedula = entrada.nextLine();
-            switch (tipo){
+            switch (tipo) {
                 case 1:
                     planillaLuz(nombre, cedula);
                     break;
                 case 2:
                     predio(nombre, cedula);
-                    break;    
+                    break;
             }
-        }else{
-             System.out.println("Opción inválida");
-            
+        } else {
+            System.out.println("Opción inválida");
+
         }
-        
-       
-        
-        
-        }
-    public static void planillaLuz(String n, String c){
+
+    }
+
+    public static void planillaLuz(String n, String c) {
         double kilovatio;
         double valorKilovatio;
         double valor;
@@ -57,28 +55,27 @@ public class Problema4 {
         kilovatio = entrada.nextDouble();
         System.out.println("Ingrese el valor por kilovatio");
         valorKilovatio = entrada.nextDouble();
-        
+
         valor = kilovatio * valorKilovatio;
-        
-        System.out.printf("Cliente %s con cédula %s debe cancelar $%.2f\n", n, 
-                c, 
+
+        System.out.printf("Cliente %s con cédula %s debe cancelar $%.2f\n", n,
+                c,
                 valor);
-  
+
     }
-    public static void predio(String n, String c){
+
+    public static void predio(String n, String c) {
         double inmueble;
         double porcentaje;
         System.out.println("Ingrese el valor de su inmueble");
         inmueble = entrada.nextDouble();
-        
+
         porcentaje = inmueble * 0.02;
-        
-   
-        
+
         System.out.printf("Cliente %s con cédula %s tiene un inmueble valorado "
-                + "en $%.2f y tiene que pagar de predio: $%.2f\n", n, 
+                + "en $%.2f y tiene que pagar de predio: $%.2f\n", n,
                 c, inmueble, porcentaje);
-  
+
     }
 
 }

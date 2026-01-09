@@ -1,0 +1,7 @@
+El problema se ha comprendido de manera rápida, asi que no hubo inconvenientes.
+Al incio estaba declarando los procedimientos como funciones, luego los cambié a
+public static void. Lo más importante del problema considero que solo se deben
+de pedir datos en caso de que el usuario solo seleccione la opción uno o dos.
+Con este problema aprendí a comprender de manera más rápida los problemas y la
+lógica.
+

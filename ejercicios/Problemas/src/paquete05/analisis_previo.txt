@@ -1,0 +1,3 @@
+primero se toma en cuenta los arreglos y luego se crea una función que recibi-
+rá los arreglos cómo parametros, dentro de este crearé 2 ciclos repetitivos
+para poder sumar todos los valores dentro de estos arreglos.

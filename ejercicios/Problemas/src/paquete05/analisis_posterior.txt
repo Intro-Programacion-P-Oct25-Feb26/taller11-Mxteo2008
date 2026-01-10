@@ -1,0 +1,7 @@
+Lo más difícil fue comprender que el método debía devolver una matriz (int[][]) 
+y no un arreglo simple, ya que perdía la estructura original. Mi error fue 
+intentar guardar las sumas en un vector unidimensional; lo corregí cambiando el 
+tipo de retorno y asignando la suma a cada coordenada z[i][j] específica. 
+La parte más importante es el uso de ciclos para recorrer y operar ambas 
+matrices simultáneamente en la misma posición. Luego de esto mejoré la manera en
+que me doy cuenta cuando se devuelve un arreglo unidimensional o bidimensional.

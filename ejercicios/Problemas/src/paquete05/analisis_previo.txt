@@ -1,3 +1,5 @@
-primero se toma en cuenta los arreglos y luego se crea una función que recibi-
-rá los arreglos cómo parametros, dentro de este crearé 2 ciclos repetitivos
+primero se toma en cuenta los arreglos y se crea un nuevo arreglo para almacenar 
+la suma y dentro de la función principal se crea otro ciclo para imprimir la ma-
+triz resultante, luego se crea una función que recibirá 
+los arreglos cómo parametros, dentro de este crearé 2 ciclos repetitivos
 para poder sumar todos los valores dentro de estos arreglos.

@@ -1,0 +1,6 @@
+El programa toma un conjunto de números enteros para calcular primero su 
+promedio y luego utilizar ese valor como base para hallar la desviación estándar
+Se emplean estructuras repetitivas para recorrer los datos y aplicar operaciones 
+matemáticas de acumulación, diferencias al cuadrado y raíz cuadrada. Finalmente, 
+se espera obtener y visualizar en pantalla ambos indicadores estadísticos con su 
+respectiva precisión decimal.

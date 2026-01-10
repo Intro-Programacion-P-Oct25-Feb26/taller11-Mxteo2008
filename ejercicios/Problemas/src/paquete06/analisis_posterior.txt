@@ -1,0 +1,7 @@
+Lo más difícil fue comprender la fórmula matemática de la desviación y 
+traducirla a código Java usando Math.pow y Math.sqrt. Mi error inicial fue 
+olvidar declarar las variables acumuladoras como double, lo que eliminaba los 
+decimales; lo corregí cambiando el tipo de dato antes de dividir. Lo más impor
+tante es pasar la media como parámetro, evitando recalcularla innecesariamente 
+dentro de la segunda función. Aprendí a sacar la media usando las funciones, 
+haciendo un código más eficiente 

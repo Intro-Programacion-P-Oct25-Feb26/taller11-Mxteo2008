@@ -1,0 +1,6 @@
+El programa requiere ingresar por teclado una cantidad determinada de nombres 
+de ciudades para almacenarlos en una lista de cadenas de texto. Posteriormente, 
+se recorre esa lista con una estructura repetitiva para contar los caracteres de 
+cada elemento utilizando condiciones lógicas específicas. Finalmente, se presen-
+tan en pantalla únicamente aquellos nombres que cumplen con tener una longitud 
+exacta de cuatro o cinco caracteres.
